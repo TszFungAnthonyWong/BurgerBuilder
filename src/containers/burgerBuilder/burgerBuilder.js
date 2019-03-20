@@ -22,7 +22,7 @@ class BurgerBuilder extends Component {
             Salad : 0
         },
 
-        totalPrice: 3,
+        totalPrice: 4,
 
         canPurchase: false,
 
