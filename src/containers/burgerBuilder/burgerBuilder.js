@@ -9,7 +9,7 @@ import Backdrop from '../../components/UI/Backdrop/Backdrop'
 const ingredientPrice ={
     Bacon : 0.7,
     Meat: 2,
-    Cheese: 0.3,
+    Cheese: 1.3,
     Salad : 5
 }
 class BurgerBuilder extends Component {
